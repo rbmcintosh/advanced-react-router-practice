@@ -8,11 +8,7 @@ import Settings from "./components/Settings";
 import Profiles from "./components/Profiles";
 import Marquee from "./components/Marquee";
 import Profile from "./components/Profile";
-import {
- BrowserRouter,
- Route,
- Switch
-} from "react-router-dom";
+import {BrowserRouter,Route,Switch} from "react-router-dom";
 
 function App() {
   return (
